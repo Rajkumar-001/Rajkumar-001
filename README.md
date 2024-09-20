@@ -31,6 +31,9 @@
 ### **Deployment:**
 ![AWS](https://img.shields.io/badge/AWS%20-%23EA902E.svg?&style=flat-square&logo=amazon-aws&logoColor=black)
 
+### **Most Used :**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-001&layout=donut-vertical)](https://github.com/Rajkumar-001/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
