@@ -69,7 +69,7 @@
 - Experiences with deploying applications on Kubernetes clusters.
 
 ## 📫 How to reach me:
-- Email: [rajkumar.pandey@example.com](mailto:rajkumar.pandey@example.com)
+- Email: [rpandeya12345@gmail.com](mailto:rpandeya12345@gmail.com)
 - LinkedIn: [linkedin.com/in/rajkumar-pandey](https://www.linkedin.com/in/raj-kumar-pandey001/)
 - Twitter: [@rajkumar_dev](https://twitter.com/rajkumar_dev)
 
