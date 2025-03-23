@@ -4,7 +4,7 @@
 - I'm a passionate learner. I love to delve into complex topics and share knowledge with others 💡.
 - I enjoy exploring new technologies and applying them to solve real-world problems ✨.
 
-🌱 I’m currently enhancing my expertise in Full Stack Development.
+🌱 I’m currently enhancing my expertise in Full Stack Development
 
 ## 🛠 My Tech Stack
 
