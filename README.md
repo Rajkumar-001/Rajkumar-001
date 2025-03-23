@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Raj Kumar Pandey!
 
-- I'm currently a Software Engineering student.
+- I'm currently a **Backend Intern at GoComet**, focusing on backend development, API design, and database optimization.
 - I'm a passionate learner. I love to delve into complex topics and share knowledge with others 💡.
 - I enjoy exploring new technologies and applying them to solve real-world problems ✨.
 
